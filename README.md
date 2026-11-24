@@ -70,8 +70,8 @@ SQLite is used for local development, so a separate database server is not requi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PratikshaDharne/FinFlow.git
-cd FinFlow
+git clone https://github.com/chaitanya-dharne/FINFLOW.git
+cd FINFLOW
 ```
 
 If your GitHub repository uses a different URL, replace the clone URL accordingly.
